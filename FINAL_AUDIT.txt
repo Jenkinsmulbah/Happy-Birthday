@@ -1,0 +1,44 @@
+FINAL AUDIT — BIRTHDAY SURPRISE
+
+FLOW
+[ ] Opening headphone prompt works.
+[ ] Prayer audio starts after “I'm ready” and loops until the wish is sealed.
+[ ] 60-second countdown runs from 60 to 0.
+[ ] Quotes appear above the countdown.
+[ ] Miss Minute stays below the countdown and does not cover key text.
+[ ] Candle stage requires Rock, Paper, Scissors before each candle.
+[ ] Winning RPS extinguishes the active candle.
+[ ] Every extinguished candle triggers a celebration overlay + confetti.
+[ ] All five candles must be extinguished before continuing.
+[ ] Age form works.
+[ ] Wish form works and clears the wish after sealing.
+[ ] Birthday song starts after the wish and music control works.
+[ ] One-level-at-a-time navigation works.
+[ ] Back button exists on every stage except the initial opening state.
+[ ] Going back does not expose multiple future levels at once.
+[ ] Six questions work one at a time.
+[ ] Cat hunt contains exactly five cats among decoys.
+[ ] Cat hunt cannot be completed until all five real cats are found.
+[ ] Chapter reveal uses the entered age and selected chapter title, with the title displayed under the age.
+[ ] Memory photo and memory video load.
+[ ] Mood selection unlocks its Continue button.
+[ ] Prayer/faith stage has a Continue button.
+[ ] Final reveal triggers confetti and displays the prayer video.
+
+MEDIA
+[ ] audio/birthday-prayer.mp3 exists.
+[ ] audio/birthday-song.mp3 exists.
+[ ] images/birthday-portrait.png exists.
+[ ] images/birthday-memory-group.png exists.
+[ ] video/birthday-memory.mp4 exists.
+[ ] video/birthday-prayer.mp4 exists.
+
+FINAL MOBILE TEST
+[ ] Test on the phone that will be used to open the link.
+[ ] Test with headphones/AirPods.
+[ ] Test with mobile data.
+[ ] Test the published GitHub Pages URL, not only local files.
+[ ] Check all buttons for accidental overlap.
+[ ] Check the music control remains visible and usable.
+[ ] Check the cat grid is comfortable to tap.
+[ ] Check video playback on mobile.
